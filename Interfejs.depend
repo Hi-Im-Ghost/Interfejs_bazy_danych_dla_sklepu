@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1611006034 source:d:\dokumenty\studia\semestr 3\bazy danych\projekt\interfejs\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<SQLAPI.h>
+
+1606465174 d:\dokumenty\studia\semestr 3\bazy danych\projekt\interfejs\sqlapi.h
+	<windows.h>
+	<wchar.h>
+	<wctype.h>
+	<sys/time.h>
+	<types.h>
+	<sys/types.h>
+	<sys/timeb.h>
+	<time.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<string>
+
+1606465174 c:\sqlapi\include\sqlapi.h
+	<windows.h>
+	<wchar.h>
+	<wctype.h>
+	<sys/time.h>
+	<types.h>
+	<sys/types.h>
+	<sys/timeb.h>
+	<time.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<string>
+
+1611636401 source:c:\users\r2-d2\desktop\teraz\bazy danych\projekt\interfejs\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<locale.h>
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<SQLAPI.h>
+
